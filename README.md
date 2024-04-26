@@ -1,3 +1,2 @@
 # htb-automated-scripts
-test
-2223
+The target of this repo is to try automate some standard checks for htb boxes.
